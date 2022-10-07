@@ -1,0 +1,34 @@
+.head
+{
+    background-color:pink ;
+}
+.E{
+    background-color:red ;
+    color: white;
+    border-radius: 30px;
+    padding:10px 10px 10px 10px ;
+    margin:10px 80px 10px 10px ;
+    
+}
+.nav1
+{
+    background-color:skyblue ;
+    color: rgb(14, 2, 2);
+    border-radius: 10px;
+}
+.nav1 h4{
+    margin-left:45px ;
+    padding-top:10px;
+}
+.nav1 ul li{
+    display: inline;
+    text-indent: 40px;
+
+}
+.G{
+    background-color: rgb(150, 156, 161);
+    width: 500px;
+}
+
+    
+    
